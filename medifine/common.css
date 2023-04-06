@@ -1,0 +1,34 @@
+.bg-gray {
+    background-color: #20BC7E;
+}
+.dly-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dly-flexa {
+    display: flex;
+    align-items: center;
+}
+.dly-flexaa {
+    display: flex;
+    align-items: center;
+}
+.dly-flexb {
+    display: flex;
+}
+.color-7e {
+    color: #20BC7E;
+}
+.color-7c {
+    color: #7C7C7C;
+}
+.fw {
+    font-weight: 700;
+}
+a {
+    cursor: pointer;
+}
+.a:hover {
+    text-decoration: underline;
+}

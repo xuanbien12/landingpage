@@ -1,0 +1,13 @@
+.bg-blue {
+    background-color: #0166F6;
+    color: white;
+}
+.bg-gray {
+    background: #57C192;
+}
+.color-x {
+    color: #57C192;
+}
+.cursor {
+    cursor: pointer;
+}
